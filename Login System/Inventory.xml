@@ -1,0 +1,20 @@
+<items>
+   <item>
+		<itemId>1</itemId>
+		<itemName>Harry Potter and Prisoner of Azkaban</itemName>
+		<itemPrice>25.00</itemPrice>
+		<itemQuantity>10</itemQuantity>
+   </item>
+   <item>
+		<itemId>2</itemId>
+		<itemName>Bloodline</itemName>
+		<itemPrice>25.00</itemPrice>
+		<itemQuantity>10</itemQuantity>
+   </item>
+   <item>
+		<itemId>3</itemId>
+		<itemName>Tell Me Your Dreams</itemName>
+		<itemPrice>25.00</itemPrice>
+		<itemQuantity>10</itemQuantity>
+   </item>
+</items>
